@@ -1,3 +1,0 @@
-It's new file in repository.
-
-git add . - adds everyting to a commit
